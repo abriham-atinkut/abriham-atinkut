@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Abriham! <br/><a href="https://github.com/abriham-atinkut">Full Stack Web Developer</a>, <a href="https://www.linkedin.com/in/abriham-atinkut/">Software engineer </a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b><a href="https://www.abriham.com.et/">MY Portfolio Website<a/></b> <br/>
+
+- <b>Full Stack Web App (React, NodeJS, and Python)</b> <br/>
+
+<h2>📃 Certification</h2>
+- <b>Back End Web Dev</b> Back End Web Dev <br/>
+- <b>AI for Career Essentials</b> <br/>
+- <b>Professional Foundation<b/><br/>
+  
+<h2>🏃‍♀️ Currently Working On </h2> 
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/abriham-atinkut
 
 <!--
-**abriham-atinkut/abriham-atinkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
