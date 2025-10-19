@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abriham! <br/><a href="https://github.com/abriham-atinkut">Full Stack Web Developer</a>, <a href="https://www.linkedin.com/in/abriham-atinkut/">Software engineer </a>
+<h1>Hi, I'm Abriham! <br/><a href="https://www.linkedin.com/in/abriham-atinkut/">Full Stack Web Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
