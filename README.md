@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abriham! <br/><a href="https://www.linkedin.com/in/abriham-atinkut/">Full Stack Web Developer</a></h1>
+# Hi, I'm Abriham! <br/><a href="https://www.linkedin.com/in/abriham-atinkut/">Full Stack Web Developer</a>
 
 <p>Self-taught full-stack web developer in progress 🚀</p>
 <p>Learning JavaScript, React, and Node.js</p>
