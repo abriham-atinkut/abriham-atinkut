@@ -12,7 +12,7 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 - Write clean, maintainable **HTML, CSS, and JavaScript**  
 - Develop **RESTful APIs** using Django and Node.js  
 - Design and manage **MySQL databases** with proper relationships  
-- Implement **authentication, authorization, and secure data handling**  
+<!-- - Implement **authentication, authorization, and secure data handling**   -->
 - Collaborate using Git-based workflows and clear project structure
 
 ---
@@ -23,7 +23,6 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 - JavaScript (ES6+)  
 - React, Next.js  
 - HTML5, CSS3  
-<!-- - Tailwind CSS / Bootstrap   -->
 - Bootstrap CSS
 - Responsive design & component-based architecture
 
