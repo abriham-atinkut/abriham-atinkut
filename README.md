@@ -23,11 +23,13 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 - JavaScript (ES6+)  
 - React, Next.js  
 - HTML5, CSS3  
-- Tailwind CSS / Bootstrap  
+<!-- - Tailwind CSS / Bootstrap   -->
+- Bootstrap CSS
 - Responsive design & component-based architecture
 
 **Backend**
-- Python, Django, Django REST Framework  
+<!-- - Python, Django, Django REST Framework   -->
+- Python, Django
 - Node.js, Express  
 - REST API design and integration  
 <!-- - Authentication & authorization -->
