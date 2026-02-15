@@ -1,5 +1,5 @@
 # Hi, I’m Abriham 👋  
-**Full-Stack Web Developer | React • Next.js • Django • Node.js**
+**Full-Stack Web Developer | React • Django • Node.js**
 
 I build **production-ready web applications** with a strong focus on modern frontend development and reliable backend systems.  
 My strength is connecting clean, responsive user interfaces with scalable APIs and well-structured databases.
@@ -8,7 +8,7 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 
 ## 🧠 What I Do
 
-- Build **modern, responsive frontends** using React and Next.js  
+- Build **modern, responsive frontends** using React 
 - Write clean, maintainable **HTML, CSS, and JavaScript**  
 - Develop **RESTful APIs** using Django and Node.js  
 - Design and manage **MySQL databases** with proper relationships  <!-- - Implement **authentication, authorization, and secure data handling**   -->
@@ -20,7 +20,7 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 
 **Frontend**
 - JavaScript (ES6+)  
-- React, Next.js  
+- React
 - HTML5, CSS3  
 - Bootstrap CSS
 - Responsive design & component-based architecture
@@ -91,7 +91,7 @@ A backend-focused project demonstrating API architecture and database integratio
 
 ## 📌 Currently Working On
 
-- Building **scalable React / Next.js applications**  
+- Building **scalable React applications**  
 - Improving **API performance and backend architecture**  
 - Strengthening **frontend best practices and code quality**
 
