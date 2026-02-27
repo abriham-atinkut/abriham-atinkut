@@ -1,4 +1,4 @@
-# Hi, I’m Abriham 👋  
+# Hi, I’m Abriham 
 **Full-Stack Web Developer | React • Django • Node.js**
 
 I build **production-ready web applications** with a strong focus on modern frontend development and reliable backend systems.  
@@ -6,7 +6,7 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - Build **modern, responsive frontends** using React 
 - Write clean, maintainable **HTML, CSS, and JavaScript**  
@@ -16,7 +16,7 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - JavaScript (ES6+)  
@@ -89,7 +89,7 @@ A backend-focused project demonstrating API architecture and database integratio
 
 --- -->
 
-## 📌 Currently Working On
+## Currently Working On
 
 - Building **scalable React applications**  
 - Improving **API performance and backend architecture**  
@@ -97,7 +97,7 @@ A backend-focused project demonstrating API architecture and database integratio
 
 ---
 
-## 🧩 How I Approach Development
+## How I Approach Development
 
 - Focus on **clean, readable, and maintainable code**  
 - Build frontends with **real user experience in mind**  
@@ -106,7 +106,7 @@ A backend-focused project demonstrating API architecture and database integratio
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 Email: abrihamatinkut@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/abriham-atinkut  
