@@ -1,5 +1,5 @@
 # Hi, I’m Abriham 
-**Full-Stack Web Developer | React • Django • Node.js**
+**Full-Stack Web Developer | React • Django**
 
 I build **production-ready web applications** with a strong focus on modern frontend development and reliable backend systems.  
 My strength is connecting clean, responsive user interfaces with scalable APIs and well-structured databases.
