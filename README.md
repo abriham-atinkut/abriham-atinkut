@@ -10,7 +10,7 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 
 - Build **modern, responsive frontends** using React 
 - Write clean, maintainable **HTML, CSS, and JavaScript**  
-- Develop **RESTful APIs** using Django and Node.js  
+- Develop **RESTful APIs** using Django
 - Design and manage **MySQL databases** with proper relationships  <!-- - Implement **authentication, authorization, and secure data handling**   -->
 - Collaborate using Git-based workflows and clear project structure
 
@@ -26,9 +26,8 @@ My strength is connecting clean, responsive user interfaces with scalable APIs a
 - Responsive design & component-based architecture
 
 **Backend**
-<!-- - Python, Django, Django REST Framework   -->
+- Python, Django, Django REST Framework 
 - Python, Django
-- Node.js, Express  
 - REST API design and integration  
 <!-- - Authentication & authorization -->
 
